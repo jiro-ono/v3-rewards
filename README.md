@@ -1,1 +1,1 @@
-# [WIP] Foundry Template w/ make setup
+# V3 Rewards
